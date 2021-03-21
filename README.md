@@ -7,7 +7,9 @@ Server: Texas State Zeus
 
 
 ******USE TEXAS STATE ZEUS LINUX SERVER*****
+
 Accessed through SSH in a terminal or SSH client application(PuTTY):
+
 - zeus.cs.txstate.edu -- RHEL 7
 
 
